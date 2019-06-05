@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-   [ "im" , "terrible" , "at"]
-    element = "ruby"
+    lame = "my code"
+    me = "scrub"
     add_element_to_start_of_array << "ruby"
      
 end
